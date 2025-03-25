@@ -19,3 +19,9 @@
    padding: 6px;
    color: rgb(179, 175, 175);;
 }
+.navbar{
+    margin: 2px;
+    height: 45px;
+    width: 100%;
+    border: 1px solid black;
+}
