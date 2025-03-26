@@ -20,8 +20,50 @@
    color: rgb(179, 175, 175);;
 }
 .navbar{
-    margin: 2px;
-    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 90px;
+    margin-top: 3px;
+    position: sticky;
+    position: relative;
+}
+.navbar{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+.logo{
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.black{
+    color: black;
+}
+.red{
+    color: rgb(246, 49, 82);
+}
+.list{
+    float: right;
+    display: flex;
+    margin: 10px;
+    margin-right: 75px;
+    gap: 50px;
+    list-style: none;
+    text-decoration: none;
+}
+.list ul{
+    text-decoration: none;
+}
+.list a{
+    color: rgb(120, 116, 116);
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Banner{
+    background-image: url(./images/main\ banner.jpg);
+    height: 900px;
     width: 100%;
-    border: 1px solid black;
 }
