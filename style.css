@@ -43,7 +43,7 @@
     color: black;
 }
 .red{
-    color: rgb(246, 49, 82);
+    color: rgb(248, 89, 97);
 }
 .list{
     float: right;
@@ -62,6 +62,9 @@
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.list :hover{
+    color: rgb(249, 70, 124);
+}
 .Banner{
     background-image: url(./images/main\ banner.jpg);
     height: 900px;
@@ -74,7 +77,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     text-align: center;
-    margin-top: ;
+   
 }
 .findbest{
     color: white;
