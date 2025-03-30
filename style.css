@@ -67,9 +67,15 @@
 }
 .Banner{
     background-image: url(./images/main\ banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    background-color: rgb(128, 126, 132);
     height: 900px;
     width: 100%;
     margin-top: -40px;
+    overflow: hidden;
+    opacity: 80%;
 }
 .bestplace{
     font-size: 50px;
@@ -77,12 +83,12 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     text-align: center;
-   
+    margin-top: 210px;
 }
 .findbest{
     color: white;
     text-align: center;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 200px;
+    margin-top: 50px;
 }
