@@ -36,9 +36,10 @@
 }
 .logo{
     font-size: large;
-    font-weight: bolder;
+    font-weight: 150px;
     margin-left: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
 }
 .black{
     color: black;
@@ -116,4 +117,5 @@
     align-items: center;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
 }
