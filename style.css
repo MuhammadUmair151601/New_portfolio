@@ -93,6 +93,9 @@
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 50px;
 }
+.parent{
+    display: flex;
+}
 .flex{
     height: 70px;
     width: 1000px;
@@ -100,4 +103,11 @@
     margin-left: 50px;
     margin-top: 100px;
     border-radius: 5px;
+}
+.search{
+    margin-top: 100px;
+    margin-left: 30px;
+    height: 70px;
+    width: 140px;
+    background-color: rgb(236, 75, 75);
 }
