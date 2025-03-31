@@ -129,8 +129,11 @@
 .What{
     margin: 20px;
     margin-left: 20px;
-    padding-right: 200px;
+    padding-right: 150px;
     padding-top: 10px;
     padding-bottom: 10px;
     border: none;
+}
+.icn{
+    
 }
