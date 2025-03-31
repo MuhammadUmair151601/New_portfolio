@@ -98,6 +98,7 @@
     display: flex;
 }
 .flex{
+    display: inline;
     height: 70px;
     width: 1000px;
     background-color: white;
@@ -118,4 +119,8 @@
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 5px;
+}
+.What{
+    margin: 25px;
+    padding-right: 200px;
 }
