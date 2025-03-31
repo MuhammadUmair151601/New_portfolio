@@ -120,7 +120,17 @@
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 5px;
 }
+.wht{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+}
 .What{
-    margin: 25px;
+    margin: 20px;
+    margin-left: 20px;
     padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
 }
