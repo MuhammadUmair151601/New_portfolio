@@ -78,6 +78,7 @@
     margin-top: -40px;
     overflow: hidden;
     opacity: 80%;
+    position: relative;
 }
 .bestplace{
     font-size: 50px;
@@ -136,11 +137,15 @@
 }
 .options-container{
     display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    margin-top: -90px;
 }
-.options{
-    margin-left: 40px;
-    margin-top: -50px;
+.options {
     height: 200px;
     width: 200px;
-    background-color: rgb(11, 25, 25);
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    z-index: 2;
+    border-radius: 5px;
 }
