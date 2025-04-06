@@ -121,6 +121,9 @@
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 5px;
 }
+.search:hover{
+    cursor: pointer;
+}
 .wht{
     margin-left: 20px;
     font-family: Arial, Helvetica, sans-serif;
@@ -148,4 +151,7 @@
     justify-content: center;
     z-index: 2;
     border-radius: 5px;
+}
+.options:hover{
+    background-color: rgb(236, 75, 75);;
 }
