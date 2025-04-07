@@ -157,6 +157,13 @@
     background-color: rgb(236, 75, 75);;
 }
 .icon{
-    margin-left: 70px;
+    margin-left: 75px;
     margin-top: 20px;
+}
+.icon-name{
+    margin-left: 60px;
+}
+.listings{
+    margin-left: 65px;
+    margin-bottom: 35px;
 }
