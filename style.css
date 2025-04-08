@@ -221,4 +221,12 @@
     margin: 20px;
     text-align: center;
 }
-
+.read-more{
+    margin-left: 125px;
+    padding-top:    7px;
+    padding-bottom: 7px;
+    padding-left: 17px;
+    padding-right:17px  ;
+    border: none;
+    border-radius: 5px;
+}
