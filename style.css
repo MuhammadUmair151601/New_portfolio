@@ -124,6 +124,9 @@
 .search:hover{
     cursor: pointer;
 }
+#search-text{
+    margin-left: 10px;
+}
 .wht{
     margin-left: 20px;
     font-family: Arial, Helvetica, sans-serif;
@@ -157,8 +160,7 @@
     background-color: rgb(236, 75, 75);
 }
 .icon{
-    margin-left: 75px;
-    margin-top: 20px;
+    margin-left: 20px;
 }
 .icon-name{
     margin-left: 60px;
@@ -190,8 +192,25 @@
     border: 1px  solid black;
     border-radius: 10px;
     /* margin-left: 50px; */
+    background-color: black;
 }
 .info:hover{
     cursor: pointer;
     background-color: rgb(236, 75, 75);
+}
+.round{
+    height: 95px;
+    width:  95px;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.choose{
+    color: white;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
 }
