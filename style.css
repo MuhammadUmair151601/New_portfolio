@@ -154,10 +154,11 @@
     justify-content: center;
     z-index: 2;
     border-radius: 5px;
-
+    color: rgb(98, 97, 96);
 }
 .options:hover{
     background-color: rgb(236, 75, 75);
+    color: white;
 }
 .icon{
     margin-left: 70px;
@@ -195,6 +196,7 @@
     display: block;
     text-align: center;
     font-family: Arial;
+    color: rgb(102, 101, 101);
 }
 .info:hover{
     cursor: pointer;
@@ -216,6 +218,7 @@
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
+    color: rgb(102, 101, 101);;
 }
 .read-more:hover{
     cursor: pointer;
