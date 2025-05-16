@@ -223,3 +223,15 @@
 .read-more:hover{
     cursor: pointer;
 }
+#Explore{
+    margin-top: -50px;
+    height: 250px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; 
+    color: rgb(107, 105, 105);
+}
